@@ -9,7 +9,11 @@ This is just a small readme about myself. All my social links are provided at th
 - 🌱 I'm currently learning and developing my skills in front and backend development for websites, and desktop applications.
 - 💞️ I love to play games in my spare time so you should come check out my twitch streams where sometimes do development streams.
 - 💻 The very few languages I have a little knowlage in are; C#, HTML, CSS, Javascript, XAML, PHP, node.js and a small amount on python.
-- 📫 You can always reach me on discord, 
+- 📫 You can always reach me on discord,
+
+## Pixel Perfect
+
+[Repo](https://github.com/PixelPerfect-Studios)
 
 ## Socials
 

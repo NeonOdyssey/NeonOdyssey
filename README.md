@@ -18,7 +18,7 @@ This is just a small readme about myself. All my social links are provided at th
 - Twitch : [ttv/neonodyssey_tv](https://twitch.tv/neonodyssey_tv)
 - Twitter : [@neonodyssey_tv](https://twitter.com/neonodyssey_tv)
 - Pixel Perfect : [pixelperfect.gg](https://pixelperfect.gg)
-s
+
 <!---
 NeonOdyssey/NeonOdyssey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

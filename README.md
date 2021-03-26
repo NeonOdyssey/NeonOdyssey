@@ -12,17 +12,16 @@ This is just a small readme about myself. All my social links are provided at th
 - 📫 You can always reach me on discord,
 
 ## Pixel Perfect
-
-[Main Website](https://pixelperfect.gg)
-[Rab Website](https://rab.pixelperfect.gg)
-[Developer Website](https://dev.pixelperfect.gg)
-[Documentation Website](https://dev.pixelperfect.gg/docs)
-
-[Repo Organisation](https://github.com/PixelPerfect-Studios)
-
-[Official Discord Server](https://pixelperfect.gg/discord)
-[Official Twitch Account](https://pixelperfect.gg/twitch)
-
+#### Explore Pixel Perfect
+- [Main Website](https://pixelperfect.gg)
+- [Rab Website](https://rab.pixelperfect.gg)
+- [Developer Website](https://dev.pixelperfect.gg)
+- [Documentation Website](https://dev.pixelperfect.gg/docs)
+#### GitHub repos
+- [GitHub Organisation](https://github.com/PixelPerfect-Studios)
+#### Chat with us
+- [Official Discord Server](https://pixelperfect.gg/discord)
+- [Official Twitch Account](https://pixelperfect.gg/twitch)
 
 ## Socials
 

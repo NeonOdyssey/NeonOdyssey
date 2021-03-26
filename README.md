@@ -13,7 +13,16 @@ This is just a small readme about myself. All my social links are provided at th
 
 ## Pixel Perfect
 
-[Repo](https://github.com/PixelPerfect-Studios)
+[Main Website](https://pixelperfect.gg)
+[Rab Website](https://rab.pixelperfect.gg)
+[Developer Website](https://dev.pixelperfect.gg)
+[Documentation Website](https://dev.pixelperfect.gg/docs)
+
+[Repo Organisation](https://github.com/PixelPerfect-Studios)
+
+[Official Discord Server](https://pixelperfect.gg/discord)
+[Official Twitch Account](https://pixelperfect.gg/twitch)
+
 
 ## Socials
 

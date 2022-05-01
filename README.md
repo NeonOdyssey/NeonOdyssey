@@ -5,25 +5,23 @@ This is just a small readme about myself. All my social links are provided at th
 
 ![about me](https://user-images.githubusercontent.com/45792245/161396890-7acfd238-2e22-48db-b856-294a458c42d4.png)
 
+## Socials
+- Website : [N3ON.uk](https://n3on.uk)
+- Discord : [NEO#1001](https://n3on.uk/social/discord)
+- Twitch : [ttv/neonodyssey_tv](https://twitch.tv/neonodyssey_tv)
+- Twitter : [@neonodyssey_tv](https://twitter.com/neonodyssey_tv)
+
 ## Pixel Perfect
 #### Explore Pixel Perfect
 - [Main Website](https://pixelperfect.gg)
-- [Rab Website](https://rab.pixelperfect.gg)
-- [Developer Website](https://dev.pixelperfect.gg)
-- [Documentation Website](https://dev.pixelperfect.gg/docs)
+- [Documentation](https://pixelperfect.gg/docs)
 #### GitHub repos
 - [GitHub Organisation](https://github.com/PixelPerfect-Studios)
 #### Chat with us
 - [Official Discord Server](https://pixelperfect.gg/discord)
 - [Official Twitch Account](https://pixelperfect.gg/twitch)
 
-## Socials
 
-- Website : [n3on.uk](https://n3on.uk)
-- Discord : [NEO#1001](https://discord.gg/KNWxGTK)
-- Twitch : [ttv/neonodyssey_tv](https://twitch.tv/neonodyssey_tv)
-- Twitter : [@neonodyssey_tv](https://twitter.com/neonodyssey_tv)
-- Pixel Perfect : [pixelperfect.gg](https://pixelperfect.gg)
 
 <!---
 NeonOdyssey/NeonOdyssey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

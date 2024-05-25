@@ -1,4 +1,3 @@
-![Sorry this image has moved, this was an awsome graphic of my twitch profile banner.](https://static-cdn.jtvnw.net/jtv_user_pictures/ecd33f09-34a4-40af-b597-16b492fe45a6-profile_banner-480.png)
 
 # 👋 Hi, I’m @NeonOdyssey
 This is just a small readme about myself. All my social links are provided at the bottom of this readme.
